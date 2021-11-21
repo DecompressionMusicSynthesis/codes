@@ -9,3 +9,5 @@
 * RNN-LSTM
 
 实验证明CNN效果优于RNN-LSTM  
+## 参考  
+https://github.com/musikalkemist/DeepLearningForAudioWithPython
